@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mediaagilitybot",
+  "private_key_id": "2fc299ed23b4023d435003f788584208b168e734",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDwjUGQtVDkBqjU\nU7KecbttT0xNdSGyYEEy1FKhaf7eITDBbty3cJt3SqXKOB7zt6xLfojKd/y3PgCo\n0sKZvtEMUDOXFUxslRI0usHY1MlE0zk42VMzT3DNCiEyHBkqpxM5gOZ6KNFAVwLJ\nFP9Tu9T0QNz97EQ6Zf0rzSzjKqVi5f04qcEBavqj0EqfrNYgRkMgH3FI6fSiok2M\nQ+rcIke+S28yGhwjosTFM4Ooma4vFY5uxPWzwpt3o7PMW4y3KdiNpbcHDG+QXxzF\nNipJjEy8hR9hlblqFIKwX7A8bVUAg6HFEKN5OMOchA701po+Ycls/iz06HoadLrv\niEWvBBFdAgMBAAECggEBALE2z1ulSB+FDHHH62owzWx9I/BYX2fC46VnqCxEI0BP\n4VRPsQjvS4k5lCQC7kKMSMEhSfMnLCVu5xt4kWaknetdVnRye2fu9oekIlT0hgZP\nOfO4n0PIvYhAcy4wZxX2GgKeBK1wTqAAugubjXKJiRwcgPIMUkNXiYjwUaZVb5wH\n96+i3J2WoOs6CWBKk5JL1GPk+YJWYzrya1Qlyp+BGn99TKLGHQodVrsMpoSzh2QQ\nx+IfVX7vznapKpsmx2irEGJRKEkcYk3RkbGB4jkdVcY1aWyZ5IxiBQCaier1kV63\nX2heijcgXcspRecSMT8pwrZi6aIOAaL8lw+0wEW87T0CgYEA/Ko4ISFXn7WegWty\n4Ux2fD26yyJsT4B/84YVTTOWZWvCqn9YxOM3m/BYKzTEiH/dqy9hsAg18NA3Jqsx\njrXUU01sIXOr2x4m6ekzsQcMsSBv11cfgT/fH13ybDv9162CPON84HCvABB1BvzU\nCHctsA61BZprMfn7w+5sVZ8X1isCgYEA87oa9mapk7q4VW/zoKIJcOSqeQgPvc2a\nAc01VGvqiQiwtxTi13nMSafpncR5lNgHdk1KC726vHIuLHeRcpQ8pFH+z3sJQ8q7\nO0S4ubr4Chc3oFWm5MY1qAaZ5cb+QeD0WYp6CY482AsAJFbrqsrfZqNJVtXvGNtg\njCwTGVPNOpcCgYB5idQIM8a3n6DIdoxDTgmsx/DjqAJb1980oGn8wfT1gnmYlDt6\nMiZcz6dJ2U80rfVOVDN0fu6bkT0GT9E96b9h9tst2Dtx4rYrTK8917tGNOk3t8QC\n41uL9iAX6l+38NG2QmOefvXfXQs+Oj4weEu05c40DMzFtI9j93uLUEUiEwKBgDRH\n1YTJXNLNmMDq9M2eNHw88LxpmEbUlZaRWEE1rOecL5v2JPqnq8SY+inXfWUKOf+M\ncLe4CRhnPbRYKaD0X1W4KPqEn+Yk1KjQAvgEPTSc6lfAR76HLfdPAzAg0WV8Ra33\nYFowYqjNI0ioRIEsZ2Ny30Z7OYCRflJTGf2y1jEdAoGBALMIkPG3XO0n1Or5Qxmg\nSLbR0TkaTl3DO9iL45V0yPSBCra+17mrLm2xRwSh+X5cG8/xnBh+7Eb+oFxV0PKc\nfWM2Q5CTDIrBXTQ+0BaNAM05955Ij3Vil55Th5FVbwN6081uIHWHC/EsyHxkqoAx\niFx/veytvbXsj5zSTYaEhV72\n-----END PRIVATE KEY-----\n",
+  "client_email": "mediaagility@mediaagilitybot.iam.gserviceaccount.com",
+  "client_id": "112552301031208841790",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mediaagility%40mediaagilitybot.iam.gserviceaccount.com"
+}
